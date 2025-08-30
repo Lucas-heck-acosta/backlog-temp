@@ -2,7 +2,7 @@
 
 Portal para consolidação de indicadores de mobilidade, atribui **níveis por região** e dispara **alertas vinculados a protocolos de ação**. Projeto proposto para atender a Prefeitura de São José dos Campos.
 
-<p align="center"> <a href="#integrantes-da-equipe">👥 Integrantes da Equipe</a> • <a href="#descricao-do-desafio">📝 Descrição do Desafio</a> • <a href="#objetivo-do-projeto">🎯 Objetivo do Projeto</a> • <a href="#requisitos-funcionais">📋 Requisitos Funcionais</a> • <a href="#cronograma">📅 Cronograma</a> • <a href="#backlog-do-produto">🗂️ Backlog do Produto</a> • <a href="#indicadores-e-notas">📊 Indicadores & Notas</a> • <a href="#alertas-e-protocolos">🚨 Alertas & Protocolos</a> • <a href="#documentacao">📚 Documentação</a> • <a href="#tecnologias-utilizadas">🛠️ Tecnologias Utilizadas</a> </p>
+<p align="center"> <a href="#integrantes-da-equipe">👥 Integrantes da Equipe</a> • <a href="#descricao-do-desafio">📝 Descrição do Desafio</a> • <a href="#objetivo-do-projeto">🎯 Objetivo do Projeto</a> • <a href="#requisitos-funcionais">📋 Requisitos Funcionais</a> • <a href="#cronograma">📅 Cronograma</a> • <a href="#backlog-do-produto">🗂️ Backlog do Produto</a> • <a href="#dor">🏃‍ DoR</a> • <a href="#dod">🏆 DoD</a> • <a href="#indicadores-e-notas">📊 Indicadores & Notas</a> • <a href="#alertas-e-protocolos">🚨 Alertas & Protocolos</a> • <a href="#documentacao">📚 Documentação</a> • <a href="#tecnologias-utilizadas">🛠️ Tecnologias Utilizadas</a> </p>
 
 <br>
 <br><div style="display: flex; justify-content: center; gap: 80px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
@@ -92,8 +92,26 @@ O objetivo do projeto é construir um sistema de monitoramento contínuo do trá
 |    12    |     Baixa      | **Cidadão**              | Visualizar **portal público** com mapa simplificado e índice geral da cidade (sem login)           |          3          |     3      |      5, 7       |      RF4      |
 
 
+## 🏃‍ <a id="dor">DoR - Definition of Ready</a>
+
+* User Stories com **Critérios de Aceitação**
+* Subtarefas divididas **a partir das US**
+* Design no **Figma**
+* Modelagem do **Banco de Dados**
+* Modelo de calculo dos **indicadores e níveis**
+* Definicão dos **protocolos**
+
 ---
 
+## 🏆 <a id="dod">DoD - Definition of Done</a>
+
+* Manual de Usuário
+* Manual da Aplicação
+* Documentação da API (Application Programming Interface)
+* Código completo
+* Vídeos de cada etapa de entrega
+
+---
 
 ## 📊 <a id="indicadores-e-notas">Indicadores & Notas</a>
 
